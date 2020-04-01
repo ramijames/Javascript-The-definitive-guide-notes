@@ -7,13 +7,11 @@ Javascript types can be divided into two categories: primitive types (which you 
 
 ## The basic primitive types are
 
-| Primitives | Example   |
-| ----------:|----------:|
-| Numbers    | 123       |
-| ----------:|----------:|
-| Strings    | "Hello"   |
-| ----------:|----------:|
-| Booleanss  | True      |
+| Primitives | Example    |
+| ----------:|-----------:|
+| Numbers    | 123        |
+| Strings    | "Hello"    |
+| Booleans   | True/False |
 
 You also have special primitive types like null and undefined. Anything besides these five primitives is an object.
 
