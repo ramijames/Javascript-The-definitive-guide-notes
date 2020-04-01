@@ -1,4 +1,4 @@
-Javascript: https://raw.githubusercontent.com/ramijames/Javascript-The-definitive-guide-notes/master/javascript-the-definitive-guide.png
+[Javascript: The definitive guide notes]: https://raw.githubusercontent.com/ramijames/Javascript-The-definitive-guide-notes/master/javascript-the-definitive-guide.png
 
 # Javascript Basics
 
