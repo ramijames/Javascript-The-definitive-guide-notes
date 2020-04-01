@@ -1,3 +1,5 @@
+Javascript: https://raw.githubusercontent.com/ramijames/Javascript-The-definitive-guide-notes/master/javascript-the-definitive-guide.png
+
 # Javascript Basics
 
 This is part of an on-going series where I reinterpret [“Javascript: The definitive guide”](https://amzn.to/34916jT) into the core concepts as I relearn them. Consider this my cliff notes. I hope helps someone else learn the ins and outs of the language.
